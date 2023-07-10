@@ -5,6 +5,8 @@ MedicalWealth
 
 <!-- prettier-ignore-start and welcome -->
 
+- [Toufiq Ansari]
+
 - [Divyanshu Dhruv](https://github.com/divyanshudhruv)
 - [Harsh](https://github.com/harshvsri)
 - [Nihal]
